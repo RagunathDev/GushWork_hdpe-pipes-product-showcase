@@ -1,2 +1,11 @@
 # GushWork_hdpe-pipes-product-showcase
-Responsive product showcase website built with Vanilla JS and modern frontend architecture.
+A fully responsive, pixel-perfect industrial product showcase website developed using Vanilla HTML, CSS, and JavaScript.
+
+This project focuses on:
+- Modern UI/UX
+- Responsive layouts
+- Sticky navigation
+- Interactive image gallery
+- Clean frontend architecture
+- Performance optimization
+- Accessibility
